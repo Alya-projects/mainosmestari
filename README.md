@@ -1,0 +1,2 @@
+# mainosmestari
+Mainoskuvien luonti tekoälyn.
